@@ -1,4 +1,5 @@
 [
 "shipit.coffee",
-"hubot-pugme"
+"hubot-pugme",
+"hubot-vso-scripts"
 ]
