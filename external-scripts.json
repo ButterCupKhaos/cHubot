@@ -8,5 +8,6 @@
   "hubot-azure-scripts/brain/storage-blob-brain",
   "hubot-vso-scripts",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-shipit",
+  "hubot-vsonline"
 ]
