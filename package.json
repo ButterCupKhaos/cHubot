@@ -5,9 +5,7 @@
   "author": "s.riese@hotmail.com",
   "description": "ZotBot",
   "dependencies": {
-    "coffee-script": "^1.9.3",
     "hubot": "^2.13.2",
-    "hubot-azure-scripts": "^0.1.6",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.5",
     "hubot-google-translate": "^0.2.0",
@@ -19,7 +17,6 @@
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.1",
     "hubot-shipit": "^0.2.0",
-    "hubot-vso-scripts": "^0.3.3",
     "hubot-vsonline": "^0.2.9"
   },
   "engines": {

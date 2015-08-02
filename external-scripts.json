@@ -5,9 +5,8 @@
   "hubot-google-translate",
   "hubot-pugme",
   "hubot-maps",
-  "hubot-azure-scripts/brain/storage-blob-brain",
-  "hubot-vso-scripts",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-vsonline"
+  "hubot-azure-scripts/brain/storage-blob-brain",
+  "hubot-vso-scripts"
 ]
